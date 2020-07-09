@@ -9,4 +9,4 @@ In my last year at college I had an iOS development course, and that was when my
 Besides my current job I like to create personal projects to test my skills as an iOS engineer and to explore the new features releases in the Apple ecosystem as well.
 
 #### Contact :mailbox:
-If you want you can follow me on [twitter](www.twitter.com/b_lorenzo10), I post some of my Swift tips regularry there!. Also, if you want to reach me you can do that there or feel free to shoot me an email (*bruno.lorenzop@gmail.com*). I'll be happy to chat :smiley:
+Find me on [twitter](www.twitter.com/b_lorenzo10), I post some of my Swift tips reguarily there!. Also, feel free to shoot me an email (*bruno.lorenzop@gmail.com*). I'll be happy to chat :smiley:

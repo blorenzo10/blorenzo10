@@ -6,4 +6,4 @@ In 2018 I decided to move on into the iOS world. Currently, I'm working as Innov
 
 #### Contact :mailbox:
 - [Twitter](www.twitter.com/b_lorenzo10)
-- [Medium blog](https://medium.com/@bruno-lorenzop)
+- [Medium blog](https://medium.com/@blorenzop)
